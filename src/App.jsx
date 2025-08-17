@@ -23,6 +23,7 @@ function App() {
         <p>
          This is Deployment Class
         </p>
+        <p><b>“Every error you fix today is an investment in the confidence you’ll have tomorrow.”</b></p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
